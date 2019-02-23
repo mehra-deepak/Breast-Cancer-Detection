@@ -90,6 +90,10 @@ sklearn.datasets.load_breast_cancer
 
 ...aslo csv file of data has been externally loaded in the repo :)
 
+# Results 
+
+An accuracy of 97 % was achieved by utilisation of Support Vector Algorithm and optimization of C and Gamma parameters.
+
 # How to access this project.
 
 Fork the Repository and clone it in ur PC , voila its urs now use it your own way i hope u will do even cooler things ;)
